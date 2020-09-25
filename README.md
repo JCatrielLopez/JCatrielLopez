@@ -6,12 +6,10 @@
     <a href="https://www.linkedin.com/in/jcatriellopez/"><img height="40" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
 </p>
 
----
-
 ## About me
-- 😄 I'm a 25 y.o. Systems Engineering student from Argentina.
-- 🌱 I’m currently learning about semisupervised learning and data visualization for my thesis.
-- 💬 Let's [chat](https://github.com/JCatrielLopez/JCatrielLopez/issues/new)!
+- 😄 I'm a 25 y.o. <b>Systems Engineering</b> student from Argentina.
+- 🌱 I’m currently learning about <i>semisupervised learning</i> and <i>data visualization</i> for my thesis.
+- 💬 Let's [chat](mailto:jcatriel.lopez@gmail.com)!
 
 ## Languages & Tech
 
@@ -30,5 +28,4 @@
 </p>
 
 ---
-<p>Illustration by Maria Shukshina from <a href="https://icons8.com/">Icons8</a></p>
-<p>Modernline font by <a href="https://creativemarket.com/Ef_Studio">Elf Studio</a> from <a href="https://creativemarket.com/Ef_Studio/4991517-modernline-handwritten-font">Creative Market</a></p>
+Illustration by <b>Natasha Remarchuk</b> from <a href="https://icons8.com/">Icons8</a>.
